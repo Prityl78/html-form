@@ -11,3 +11,33 @@ form {
     box-shadow: 2px 2px 5px -2px darkorchid;
     transform: translate(-50%, -50%);
 }
+label {
+    font-family: sans-serif;
+    letter-spacing:4px ;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    color: black;
+}
+
+input[type=text] {
+    display: inline-block;
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: aquamarine;
+    color: green;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border: 8px;
+    letter-spacing: 3px;
+
+
+
+}
+
+button:hover {
+    background-color: aquamarine;
+    border: 2px solid;
+
+}
